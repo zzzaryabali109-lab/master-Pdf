@@ -1,0 +1,6 @@
+{
+  "name": "Adobe Acrobat-Style PDF OCR & Document Viewer",
+  "description": "Professional PDF OCR and document viewer for scanned, rotated, and blurry PDFs with automatic de-skewing and clean text reconstruction",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
